@@ -12,7 +12,7 @@ I am a mathematician passionate about programming. I'm always eager to learn and
 - **Licentiate in Mathematics**
   - Institution: University of São Paulo
   - Dates: 02/2020 - 12/2024
-- **Technical in Systems Development **
+- **Technical in Systems Development**
   - Institution: Senai
   - Dates: 07/2024 - 12/2025
 
